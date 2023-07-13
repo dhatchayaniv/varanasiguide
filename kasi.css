@@ -1,0 +1,30 @@
+iframe{
+    padding-left: 100px;
+}
+body{
+    background-image: url("holy2.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: crimson;
+    font-weight: bold;
+}
+p{
+    font-weight: bold;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+p::first-letter{
+    padding-left: 45px;
+}
+h3{
+    padding-left: 50px;
+    text-decoration: underline;
+    font-weight: bolder;
+    color:black;
+    font-size: 25px;
+}
