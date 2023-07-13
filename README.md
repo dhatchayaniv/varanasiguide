@@ -1,1 +1,1 @@
-# varanasiguide
+https://dhatchayaniv.github.io/varanasiguide/
